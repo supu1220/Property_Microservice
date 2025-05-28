@@ -16,7 +16,7 @@ import com.propertyservice.dto.APIResponse;
 import com.propertyservice.dto.PropertyDto;
 import com.propertyservice.entity.Property;
 import com.propertyservice.service.PropertyService;
-
+//suprava
 @RestController
 @RequestMapping("/api/v1/property")
 public class PropertyController {
